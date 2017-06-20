@@ -1,0 +1,1 @@
+This is a hello-git project. Nothing fancy!
